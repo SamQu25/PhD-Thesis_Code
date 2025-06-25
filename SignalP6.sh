@@ -1,0 +1,1 @@
+signalp6 --fastafile <fasta_file> --organism eukarya --output_dir <directory> --format all --mode fast
